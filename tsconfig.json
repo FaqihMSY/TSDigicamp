@@ -1,0 +1,8 @@
+// target and module
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "allowJs": true,
+  "strict": true
+}
+}
